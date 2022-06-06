@@ -1,0 +1,5 @@
+1|James|Brighton|jemsbete|james9maret2004|Jakarta, 9th of March 2004|Jl. Kalimalang No. 34, Jakarta Timur|3175090304|INDONESIAN|1ST DOSE
+2|Louis|Evilio|louisevilio|louis12345|Jakarta, 28th of December 2003|Jl. Kramat Jati No. 21, Jakarta Timur|3175281203|INDONESIAN|NOT VACCINATED
+3|Evelyn|Sukartono|evelynlevel9|evelynsukartono|Jakarta, 14th of November 2002|Jl. Bukit Duri Permai Blok E No. 1|3075141102|INDONESIAN|FULL DOSE
+4|David|Wee Ming Jun|davidwee|david123|Kuala Lumpur, 24th of August 2001|Jalan Merdeka No. 3, Kuala Lumpur|6024082001|MALAYSIAN|NOT VACCINATED
+5|Abinaash|Chandrasekaran|abinaash|abinaashc|Kuala Lumpur, 31 August 2000|Jalan Teknologi No. 5|6012345|INDIAN|NOT VACCINATED

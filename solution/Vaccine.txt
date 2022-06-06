@@ -1,0 +1,11 @@
+1|Sinovac|China|2|Bukit Jalil Stadium|Kuala Lumpur|1500
+2|Pfizer|USA|2|Pavilion Kuala Lumpur|Kuala Lumpur|1000
+3|Astra Zeneca|UK|2|Penang Town Hall|Penang|500
+4|Sputnik V|Russia|2|LegoLand Malaysia|Johor|800
+5|CanSinoBio|China|1|The Astana Kuching|Kuching|200
+6|Sinovac|China|2|Pavilion Kuala Lumpur|Kuala Lumpur|1000
+7|Moderna|USA|2|Bukit Jalil Stadium|Kuala Lumpur|500
+8|Vaksin Merah Putih|Indonesia|2|Bukit Jalil Stadium|Kuala Lumpur|100
+9|CanSinoBio|China|1|LegoLand Malaysia|Johor|300
+10|Pfizer|USA|2|The Astana Kuching|Kuching|500
+11|Moderna|USA|2|Penang Town Hall|Penang|500

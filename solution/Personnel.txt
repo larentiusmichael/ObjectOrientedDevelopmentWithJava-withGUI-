@@ -1,0 +1,4 @@
+1|Saw|Chang Hau|sawchanghau|sch0302|Johor Bahru, 03rd February 2001|Jalan Teknologi No. 5, Johor|6003022001|MALAYSIAN|NOT VACCINATED
+2|Gun|Ming Fai|gunmingfai|gmfapu|Kuala Lumpur, 11th of January 2001|Jalan Tun Abdul Razak No. 3, Kuala Lumpur|6011012001|MALAYSIAN|1ST DOSE
+3|Clarance|Lee Chee Wei|cheeweilee|cheeweilee2301|Batu Pahat, 23rd of January 2001|Jalan Mahathir Mohammad No. 21, Johor|6023012001|MALAYSIAN|1ST DOSE
+4|Lee|Kim Keong|leekimkeong|leekeongkim|Kuala Lumpur, 21st August 1972|Jalan Malaka No. 5, Kuala Lumpur|6021081972|MALAYSIAN|NOT VACCINATED
